@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/igmelero/ContosoAirForDummies/_apis/build/status/igmelero.ContosoAir?branchName=master)](https://dev.azure.com/igmelero/ContosoAirForDummies/_build/latest?definitionId=20&branchName=master)
 
 
 # Microsoft.Github CI Demo
